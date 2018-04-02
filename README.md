@@ -28,4 +28,4 @@ User Registration Application
 
 Note : 
  
- ADMIN user will be created when Spring boot application startup.
+ ADMIN user will be created when spring boot application startup.
